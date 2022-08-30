@@ -23,6 +23,12 @@ In NS Mini project assignement, we learn how to make simple mobile tab navigatio
 
 The design is responsive. For window size above 600px, you will see a regular type navigation bar and as the size comes below 600px (which is generally in the case of mobiles) tab navigation will be shown in the below as per the task given.
 
+Screenshot
+
+
+
+![mobiletab](https://user-images.githubusercontent.com/68468678/187458080-6e7bfaea-80f6-4664-94ae-a22709d7b247.png)
+
 
 Links
 
